@@ -18,21 +18,21 @@ const Projects = () => {
               description:
                 'Developed a finance tracking app using the MERN stack to help users manage income, expenses, and budgets efficiently. Integrated real-time stock APIs and built a secure, responsive interface with dynamic data visualization.',
               tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Stock API'],
-              link: 'https://github.com/SanthoshPalem/finance-tracker'
+              link: 'https://github.com/SanthoshPalem/Budget-Boss'
             },
             {
               title: '🎵 Music Application',
               description:
                 'Created a React-based music app with CRUD functionality. Users can add, listen to, search, and like songs. Used JSON for lightweight data handling and built a responsive, user-friendly UI.',
-              tech: ['React.js', 'JSON', 'Tailwind CSS', 'CRUD'],
-              link: 'https://github.com/SanthoshPalem/music-app'
+              tech: ['React.js', 'JSON', 'CSS', 'CRUD'],
+              link: 'https://github.com/SanthoshPalem/MUSIC-APPLICATION-using-REACT'
             },
             {
               title: '🛡️ Steganography Tool',
               description:
                 'Built an image steganography tool using XOR encryption to securely hide messages within image pixels. Focused on data confidentiality and cybersecurity techniques.',
               tech: ['Python', 'XOR Encryption', 'Cybersecurity'],
-              link: 'https://github.com/SanthoshPalem/image-steganography'
+              link: 'https://github.com/SanthoshPalem/Cyber-Security-Internship'
             },
             {
               title: '💬 Medical Chatbot (AI Assistant)',
