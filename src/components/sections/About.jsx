@@ -79,7 +79,7 @@ const About = () => {
               <h3 className="text-xl font-bold mb-4">Education</h3>
               <ul className="text-gray-400 text-sm space-y-2">
                 <li>
-                  <strong>B.Tech in Computer Science</strong> @ SRM UNIVERSITY AP
+                  <strong>B.Tech in Computer Science</strong> @ SRM UNIVERSITY AP <br /> 2022-2026
                 </li><br />
                 <li>
                   <strong>Intermediate</strong> @ Deepthi Junior College, Proddatur<br />
@@ -92,9 +92,7 @@ const About = () => {
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 transition-all bg-white/5 backdrop-blur">
               <h3 className="text-xl font-bold mb-4">Work Experience</h3>
               <p className="text-gray-400 text-sm space-y-1">
-                <strong>Cybersecurity Intern</strong> @Under Faculty Mentor<br /><br />
-                <strong>ML Research Intern</strong> @ Example Company<br />
-                Jan 2024 – Present
+                <strong>Cybersecurity Intern</strong> @Edunet<br />2024<br />
               </p>
             </div>
           </div>
